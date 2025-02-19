@@ -18,5 +18,10 @@ def setup_database():
     conn.close()
     print(f"Database initialized at {DB}")
 
-if __name__ == "__main__":
+def setup_
+
+def main():
     setup_database()
+
+if __name__ == "__main__":
+    main()

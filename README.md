@@ -4,6 +4,6 @@
 
 After some research...
 *First steps: data collection*
-- Get a manifest.json from TCGA website, use GDC API to download manifest
-- Download all .svs slides script
--> Get all clinical data files script via TCGA Identifer
+- Get a manifest.json from TCGA website, use manifest.txt for reference
+    - Batch download 50GB at a time
+    - Check if downloaded already and used, 
